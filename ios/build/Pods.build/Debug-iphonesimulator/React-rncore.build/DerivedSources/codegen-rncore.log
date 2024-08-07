@@ -1,0 +1,35 @@
+
+
+    >>>>> Generating codegen schema from JavaScript
+
+    
+["../Libraries/Components/ActivityIndicator/ActivityIndicatorViewNativeComponent.js", "../Libraries/Components/DrawerAndroid/AndroidDrawerLayoutNativeComponent.js", "../Libraries/Components/ProgressBarAndroid/ProgressBarAndroidNativeComponent.js", "../Libraries/Components/RefreshControl/AndroidSwipeRefreshLayoutNativeComponent.js", "../Libraries/Components/RefreshControl/PullToRefreshViewNativeComponent.js", "../Libraries/Components/SafeAreaView/RCTSafeAreaViewNativeComponent.js", "../Libraries/Components/ScrollView/AndroidHorizontalScrollContentViewNativeComponent.js", "../Libraries/Components/ScrollView/AndroidHorizontalScrollViewNativeComponent.js", "../Libraries/Components/ScrollView/ScrollContentViewNativeComponent.js", "../Libraries/Components/ScrollView/ScrollViewNativeComponent.js", "../Libraries/Components/Switch/AndroidSwitchNativeComponent.js", "../Libraries/Components/Switch/SwitchNativeComponent.js", "../Libraries/Components/TextInput/AndroidTextInputNativeComponent.js", "../Libraries/Components/TextInput/RCTInputAccessoryViewNativeComponent.js", "../Libraries/Components/TextInput/RCTMultilineTextInputNativeComponent.js", "../Libraries/Components/TextInput/RCTSingelineTextInputNativeComponent.js", "../Libraries/Components/TraceUpdateOverlay/TraceUpdateOverlayNativeComponent.js", "../Libraries/Components/UnimplementedViews/UnimplementedNativeViewNativeComponent.js", "../Libraries/Components/View/ViewNativeComponent.js", "../Libraries/Image/ImageViewNativeComponent.js", "../Libraries/Image/TextInlineImageNativeComponent.js", "../Libraries/Modal/RCTModalHostViewNativeComponent.js", "../Libraries/ReactNative/requireNativeComponent.js", "../Libraries/Text/TextNativeComponent.js", "../Libraries/Utilities/codegenNativeComponent.js"]
+
+
+    >>>>> Generating codegen artifacts from schema
+
+    
+ output has been written to /Users/purushottamrathore/AppinopWorkspace/Crypto/CTEX/ios/../node_modules/react-native/ReactCommon:
+React-Fabric.podspec
+React-FabricImage.podspec
+React-Mapbuffer.podspec
+React-nativeconfig.podspec
+React-rncore.podspec
+ReactCommon.podspec
+butter
+callinvoker
+cxxreact
+hermes
+jsc
+jsengineinstance
+jserrorhandler
+jsi
+jsiexecutor
+jsinspector-modern
+logger
+react
+reactperflogger
+rncore
+runtimeexecutor
+yoga
+Done.

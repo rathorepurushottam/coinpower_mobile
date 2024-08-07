@@ -1,0 +1,71 @@
+0 info it worked if it ends with ok
+1 verbose cli [
+1 verbose cli   '/usr/local/Cellar/node/21.7.1/bin/node',
+1 verbose cli   '/usr/local/bin/npm',
+1 verbose cli   'owner',
+1 verbose cli   'ls',
+1 verbose cli   'CTEX'
+1 verbose cli ]
+2 info using npm@2.14.12
+3 info using node@v21.7.1
+4 silly mapToRegistry name CTEX
+5 silly mapToRegistry using default registry
+6 silly mapToRegistry registry https://registry.npmjs.org/
+7 silly mapToRegistry uri https://registry.npmjs.org/CTEX
+8 verbose request uri https://registry.npmjs.org/CTEX
+9 verbose request no auth needed
+10 info attempt registry request try #1 at 17:54:19
+11 verbose request id 98bc2dd98a624583
+12 http request GET https://registry.npmjs.org/CTEX
+13 http 404 https://registry.npmjs.org/CTEX
+14 verbose headers {
+14 verbose headers   date: 'Mon, 13 May 2024 12:24:20 GMT',
+14 verbose headers   'content-type': 'application/json',
+14 verbose headers   'content-length': '21',
+14 verbose headers   connection: 'keep-alive',
+14 verbose headers   'cf-ray': '88329ff4ba82a6c2-DEL',
+14 verbose headers   vary: 'Accept-Encoding',
+14 verbose headers   server: 'cloudflare'
+14 verbose headers }
+15 silly get cb [
+15 silly get   404,
+15 silly get   {
+15 silly get     date: 'Mon, 13 May 2024 12:24:20 GMT',
+15 silly get     'content-type': 'application/json',
+15 silly get     'content-length': '21',
+15 silly get     connection: 'keep-alive',
+15 silly get     'cf-ray': '88329ff4ba82a6c2-DEL',
+15 silly get     vary: 'Accept-Encoding',
+15 silly get     server: 'cloudflare'
+15 silly get   }
+15 silly get ]
+16 error owner ls Couldn't get owner data CTEX
+17 verbose stack Error: Not found : CTEX
+17 verbose stack     at makeError (/usr/local/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:264:12)
+17 verbose stack     at CachingRegistryClient.<anonymous> (/usr/local/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:252:14)
+17 verbose stack     at Request._callback (/usr/local/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:172:14)
+17 verbose stack     at self.callback (/usr/local/lib/node_modules/npm/node_modules/request/request.js:198:22)
+17 verbose stack     at Request.emit (node:events:519:28)
+17 verbose stack     at Request.<anonymous> (/usr/local/lib/node_modules/npm/node_modules/request/request.js:1082:10)
+17 verbose stack     at Request.emit (node:events:531:35)
+17 verbose stack     at IncomingMessage.<anonymous> (/usr/local/lib/node_modules/npm/node_modules/request/request.js:1009:12)
+17 verbose stack     at IncomingMessage.emit (node:events:531:35)
+17 verbose stack     at endReadableNT (node:internal/streams/readable:1696:12)
+18 verbose statusCode 404
+19 verbose pkgid CTEX
+20 verbose cwd /Users/purushottamrathore/AppinopWorkspace/Crypto/CTEX/android
+21 error Darwin 23.4.0
+22 error argv "/usr/local/Cellar/node/21.7.1/bin/node" "/usr/local/bin/npm" "owner" "ls" "CTEX"
+23 error node v21.7.1
+24 error npm  v2.14.12
+25 error code E404
+26 error 404 Not found : CTEX
+26 error 404
+26 error 404 'CTEX' is not in the npm registry.
+26 error 404 Your package name is not valid, because
+26 error 404
+26 error 404  1. name can no longer contain capital letters
+26 error 404
+26 error 404 Note that you can also install from a
+26 error 404 tarball, folder, http url, or git url.
+27 verbose exit [ 1, true ]

@@ -1,0 +1,3 @@
+dependencies: \
+  /Users/purushottamrathore/AppinopWorkspace/Crypto/CTEX/ios/Pods/Target\ Support\ Files/React-Core/React-Core-dummy.m \
+  /Users/purushottamrathore/AppinopWorkspace/Crypto/CTEX/ios/Pods/Target\ Support\ Files/React-Core/React-Core-prefix.pch

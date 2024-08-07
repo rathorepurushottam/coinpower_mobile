@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/purushottamrathore/AppinopWorkspace/Crypto/CTEX/node_modules/react-native/React/CoreModules/RCTLogBoxView.mm \
+  /Users/purushottamrathore/AppinopWorkspace/Crypto/CTEX/ios/Pods/Target\ Support\ Files/React-CoreModules/React-CoreModules-prefix.pch \
+  /Users/purushottamrathore/AppinopWorkspace/Crypto/CTEX/node_modules/react-native/React/CoreModules/RCTLogBoxView.h \
+  /Users/purushottamrathore/AppinopWorkspace/Crypto/CTEX/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/purushottamrathore/AppinopWorkspace/Crypto/CTEX/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/purushottamrathore/AppinopWorkspace/Crypto/CTEX/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/purushottamrathore/AppinopWorkspace/Crypto/CTEX/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/purushottamrathore/AppinopWorkspace/Crypto/CTEX/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/purushottamrathore/AppinopWorkspace/Crypto/CTEX/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/purushottamrathore/AppinopWorkspace/Crypto/CTEX/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/purushottamrathore/AppinopWorkspace/Crypto/CTEX/ios/Pods/Headers/Public/React-Core/React/RCTJSThread.h \
+  /Users/purushottamrathore/AppinopWorkspace/Crypto/CTEX/ios/Pods/Headers/Public/React-Core/React/RCTBundleManager.h \
+  /Users/purushottamrathore/AppinopWorkspace/Crypto/CTEX/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModuleDecorator.h \
+  /Users/purushottamrathore/AppinopWorkspace/Crypto/CTEX/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/purushottamrathore/AppinopWorkspace/Crypto/CTEX/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/purushottamrathore/AppinopWorkspace/Crypto/CTEX/ios/Pods/Headers/Public/React-Core/React/RCTBridgeConstants.h \
+  /Users/purushottamrathore/AppinopWorkspace/Crypto/CTEX/ios/Pods/Headers/Public/React-Core/React/RCTConstants.h \
+  /Users/purushottamrathore/AppinopWorkspace/Crypto/CTEX/ios/Pods/Headers/Public/React-Core/React/RCTSurfacePresenterStub.h \
+  /Users/purushottamrathore/AppinopWorkspace/Crypto/CTEX/ios/Pods/Headers/Public/React-Core/React/RCTBridgeProxy.h \
+  /Users/purushottamrathore/AppinopWorkspace/Crypto/CTEX/ios/Pods/Headers/Public/React-Core/React/RCTSurfaceView.h \
+  /Users/purushottamrathore/AppinopWorkspace/Crypto/CTEX/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/purushottamrathore/AppinopWorkspace/Crypto/CTEX/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/purushottamrathore/AppinopWorkspace/Crypto/CTEX/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/purushottamrathore/AppinopWorkspace/Crypto/CTEX/ios/Pods/Headers/Public/React-Core/React/RCTSurface.h \
+  /Users/purushottamrathore/AppinopWorkspace/Crypto/CTEX/ios/Pods/Headers/Public/React-Core/React/RCTSurfaceProtocol.h \
+  /Users/purushottamrathore/AppinopWorkspace/Crypto/CTEX/ios/Pods/Headers/Public/React-Core/React/RCTSurfaceStage.h \
+  /Users/purushottamrathore/AppinopWorkspace/Crypto/CTEX/ios/Pods/Headers/Public/React-Core/React/RCTSurfaceHostingView.h \
+  /Users/purushottamrathore/AppinopWorkspace/Crypto/CTEX/ios/Pods/Headers/Public/React-Core/React/RCTSurfaceDelegate.h \
+  /Users/purushottamrathore/AppinopWorkspace/Crypto/CTEX/ios/Pods/Headers/Public/React-Core/React/RCTSurfaceSizeMeasureMode.h
