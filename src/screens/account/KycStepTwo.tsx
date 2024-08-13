@@ -59,8 +59,8 @@ const KycStepTwo = () => {
   const [city, setCity] = useState('');
   const [pin, setPin] = useState('');
   const [emailOtp, setEmailOtp] = useState('');
-  // const [phoneNumber, setPhoneNumber] = useState('');
-  // const [mobileOtp, setMobileOtp] = useState('');
+  const [phoneNumber, setPhoneNumber] = useState('');
+  const [mobileOtp, setMobileOtp] = useState('');
   const [isDatePickerVisible, serIsDatePickerVisible] = useState(false);
   const middleNameInput = useRef(null);
   const lastNameInput = useRef(null);
@@ -68,7 +68,7 @@ const KycStepTwo = () => {
   const stateInput = useRef(null);
   const cityInput = useRef(null);
   const pinInput = useRef(null);
-  // const [email, setEmail] = useState('');
+  const [email, setEmail] = useState('');
   const [otpText, setOtpText] = useState(checkValue(languages?.register_nine));
 
   const hideDatePicker = () => {
@@ -129,14 +129,14 @@ const KycStepTwo = () => {
     dispatch(setKycData({key: 'zip_code', value: pin}));
     dispatch(setKycData({key: 'emailId', value: emailId}));
     dispatch(setKycData({key: 'emailOtp', value: emailOtp}));
-    // dispatch(setKycData({key: 'mobileNumber', value: mobileNumber}));
-    // dispatch(setKycData({key: 'mobileOtp', value: mobileOtp}));
+    dispatch(setKycData({key: 'mobileNumber', value: mobileNumber}));
+    dispatch(setKycData({key: 'mobileOtp', value: mobileOtp}));
     NavigationService.navigate(KYC_STEP_FOUR_SCREEN);
   };
 
-  const onGetOtpEmail = () => {
+  const onGetOtp = (type: any) => {
     let data = {
-      email_or_phone : emailId,
+      email_or_phone : type,
       "resend": true,
     };
     dispatch(sendOtp(data));
@@ -215,7 +215,7 @@ const KycStepTwo = () => {
               </View>
             </View>
           </View>
-          {/* <Input
+          <Input
             title={checkValue(languages?.title_phone)}
             placeholder={'Enter Your Phone'}
             value={phoneNumber || mobileNumber}
@@ -227,10 +227,10 @@ const KycStepTwo = () => {
             editable={mobileNumber ? false : true}
             isOtp={mobileNumber ? false : true}
             otpText={otpText}
-            onSendOtp={onGetOtpPhone}
+            onSendOtp={() => onGetOtp(type)}
             returnKeyType="next"
-          /> */}
-          {/* {!mobileNumber && (
+          />
+          {!mobileNumber && (
             <Input
               title={'OTP'}
               value={mobileOtp}
@@ -241,22 +241,22 @@ const KycStepTwo = () => {
               autoCapitalize="none"
               returnKeyType="next"
             />
-          )} */}
+          )}
           <Input
             title={'Email*'}
-            value={emailId}
-            // onChangeText={e => {
-            //   setEmail(e);
-            // }}
+            value={email ||emailId}
+            onChangeText={e => {
+              setEmail(e);
+            }}
             placeholder={'Enter Email'}
             autoCapitalize="none"
             editable={emailId ? false : true}
             returnKeyType="next"
             isOtp={true}
             otpText={otpText}
-            onSendOtp={onGetOtpEmail}
+            onSendOtp={() => onGetOtp(type)}
           />
-          {/* {!emailId && ( */}
+          {!emailId && (
             <Input
               title={'OTP*'}
               value={emailOtp}
@@ -267,7 +267,7 @@ const KycStepTwo = () => {
               autoCapitalize="none"
               returnKeyType="next"
             />
-          {/* )} */}
+          )}
           <View>
             <AppText style={styles.gender}>
               {checkValue(languages?.title_dob)}

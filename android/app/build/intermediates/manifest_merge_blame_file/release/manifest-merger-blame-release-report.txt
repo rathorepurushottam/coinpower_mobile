@@ -9,38 +9,38 @@
 9        android:targetSdkVersion="34" />
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->/Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:3:5-67
-11-->/Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:3:22-64
+11-->/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:3:5-67
+11-->/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:3:22-64
 12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-12-->/Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:4:1-76
-12-->/Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:4:18-73
+12-->/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:4:1-76
+12-->/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:4:18-73
 13    <uses-permission android:name="android.permission.CAMERA" />
-13-->/Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:5:2-62
-13-->/Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:5:19-59
+13-->/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:5:2-62
+13-->/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:5:19-59
 14    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
-14-->/Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:6:3-73
-14-->/Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:6:20-71
+14-->/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:6:3-73
+14-->/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:6:20-71
 15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-15-->/Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:7:3-79
-15-->/Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:7:20-76
+15-->/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:7:3-79
+15-->/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:7:20-76
 16
 17    <uses-feature android:name="android.hardware.camera" />
-17-->/Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:9:2-57
-17-->/Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:9:16-54
+17-->/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:9:2-57
+17-->/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:9:16-54
 18    <uses-feature android:name="android.hardware.camera.autofocus" />
-18-->/Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:10:2-67
-18-->/Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:10:16-64
+18-->/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:10:2-67
+18-->/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:10:16-64
 19    <uses-feature android:name="android.hardware.camera" />
-19-->/Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:9:2-57
-19-->/Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:9:16-54
+19-->/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:9:2-57
+19-->/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:9:16-54
 20
 21    <queries>
-21-->[:react-native-image-crop-picker] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-11:15
+21-->[:react-native-image-crop-picker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-11:15
 22        <intent>
-22-->[:react-native-image-crop-picker] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:8:9-10:18
+22-->[:react-native-image-crop-picker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:8:9-10:18
 23            <action android:name="android.media.action.IMAGE_CAPTURE" />
-23-->[:react-native-image-crop-picker] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:9:13-73
-23-->[:react-native-image-crop-picker] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:9:21-70
+23-->[:react-native-image-crop-picker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:9:13-73
+23-->[:react-native-image-crop-picker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:9:21-70
 24        </intent>
 25    </queries>
 26
@@ -134,97 +134,97 @@
 61-->[me.leolin:ShortcutBadger:1.1.22] /Users/purushottamrathore/.gradle/caches/transforms-3/d12a6bdad71b6851c31ee718e01584f6/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:50:22-86
 62
 63    <application
-63-->/Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:12:5-35:19
+63-->/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:12:5-35:19
 64        android:name="com.cryptobux.coinpower.MainApplication"
-64-->/Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:13:7-38
+64-->/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:13:7-38
 65        android:allowBackup="false"
-65-->/Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:17:7-34
+65-->/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:17:7-34
 66        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 66-->[androidx.core:core:1.9.0] /Users/purushottamrathore/.gradle/caches/transforms-3/13659b94c66de92d98d7f8af61234b95/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
 67        android:extractNativeLibs="true"
 68        android:icon="@mipmap/ic_launcher_round"
-68-->/Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:15:7-47
+68-->/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:15:7-47
 69        android:label="@string/app_name"
-69-->/Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:14:7-39
+69-->/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:14:7-39
 70        android:largeHeap="true"
-70-->/Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:21:7-31
+70-->/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:21:7-31
 71        android:requestLegacyExternalStorage="true"
-71-->/Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:20:7-50
+71-->/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:20:7-50
 72        android:roundIcon="@mipmap/ic_launcher_round"
-72-->/Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:16:7-52
+72-->/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:16:7-52
 73        android:theme="@style/AppTheme"
-73-->/Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:18:7-38
+73-->/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:18:7-38
 74        android:usesCleartextTraffic="true" >
-74-->/Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:19:7-42
+74-->/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:19:7-42
 75        <activity
-75-->/Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:22:7-34:18
+75-->/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:22:7-34:18
 76            android:name="com.cryptobux.coinpower.MainActivity"
-76-->/Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:23:9-37
+76-->/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:23:9-37
 77            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
-77-->/Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:25:9-118
+77-->/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:25:9-118
 78            android:exported="true"
-78-->/Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:29:9-32
+78-->/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:29:9-32
 79            android:label="@string/app_name"
-79-->/Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:24:9-41
+79-->/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:24:9-41
 80            android:launchMode="singleTask"
-80-->/Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:26:9-40
+80-->/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:26:9-40
 81            android:screenOrientation="portrait"
-81-->/Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:27:10-46
+81-->/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:27:10-46
 82            android:windowSoftInputMode="adjustResize" >
-82-->/Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:28:9-51
+82-->/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:28:9-51
 83            <intent-filter>
-83-->/Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:30:9-33:25
+83-->/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:30:9-33:25
 84                <action android:name="android.intent.action.MAIN" />
-84-->/Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:31:13-65
-84-->/Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:31:21-62
+84-->/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:31:13-65
+84-->/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:31:21-62
 85
 86                <category android:name="android.intent.category.LAUNCHER" />
-86-->/Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:32:13-73
-86-->/Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:32:23-70
+86-->/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:32:13-73
+86-->/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:32:23-70
 87            </intent-filter>
 88        </activity>
 89
 90        <provider
-90-->[:react-native-image-crop-picker] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:16:9-24:20
+90-->[:react-native-image-crop-picker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:16:9-24:20
 91            android:name="com.reactnative.ivpusic.imagepicker.IvpusicImagePickerFileProvider"
-91-->[:react-native-image-crop-picker] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:17:13-94
+91-->[:react-native-image-crop-picker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:17:13-94
 92            android:authorities="com.cryptobux.coinpower.provider"
-92-->[:react-native-image-crop-picker] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:18:13-60
+92-->[:react-native-image-crop-picker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:18:13-60
 93            android:exported="false"
-93-->[:react-native-image-crop-picker] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:19:13-37
+93-->[:react-native-image-crop-picker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:19:13-37
 94            android:grantUriPermissions="true" >
-94-->[:react-native-image-crop-picker] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:20:13-47
+94-->[:react-native-image-crop-picker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:20:13-47
 95            <meta-data
-95-->[:react-native-image-crop-picker] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:21:13-23:78
+95-->[:react-native-image-crop-picker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:21:13-23:78
 96                android:name="android.support.FILE_PROVIDER_PATHS"
-96-->[:react-native-image-crop-picker] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:22:17-67
+96-->[:react-native-image-crop-picker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:22:17-67
 97                android:resource="@xml/ivpusic_imagepicker_provider_paths" />
-97-->[:react-native-image-crop-picker] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:23:17-75
+97-->[:react-native-image-crop-picker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:23:17-75
 98        </provider>
 99
 100        <activity
-100-->[:react-native-image-crop-picker] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:26:9-28:72
+100-->[:react-native-image-crop-picker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:26:9-28:72
 101            android:name="com.yalantis.ucrop.UCropActivity"
-101-->[:react-native-image-crop-picker] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:27:13-60
+101-->[:react-native-image-crop-picker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:27:13-60
 102            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-102-->[:react-native-image-crop-picker] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:28:13-69
+102-->[:react-native-image-crop-picker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:28:13-69
 103
 104        <provider
-104-->[:react-native-webview] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-webview/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:8:9-16:20
+104-->[:react-native-webview] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-webview/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:8:9-16:20
 105            android:name="com.reactnativecommunity.webview.RNCWebViewFileProvider"
-105-->[:react-native-webview] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-webview/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:9:13-83
+105-->[:react-native-webview] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-webview/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:9:13-83
 106            android:authorities="com.cryptobux.coinpower.fileprovider"
-106-->[:react-native-webview] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-webview/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:10:13-64
+106-->[:react-native-webview] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-webview/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:10:13-64
 107            android:exported="false"
-107-->[:react-native-webview] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-webview/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-37
+107-->[:react-native-webview] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-webview/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-37
 108            android:grantUriPermissions="true" >
-108-->[:react-native-webview] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-webview/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:12:13-47
+108-->[:react-native-webview] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-webview/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:12:13-47
 109            <meta-data
-109-->[:react-native-image-crop-picker] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:21:13-23:78
+109-->[:react-native-image-crop-picker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:21:13-23:78
 110                android:name="android.support.FILE_PROVIDER_PATHS"
-110-->[:react-native-image-crop-picker] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:22:17-67
+110-->[:react-native-image-crop-picker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:22:17-67
 111                android:resource="@xml/file_provider_paths" />
-111-->[:react-native-image-crop-picker] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:23:17-75
+111-->[:react-native-image-crop-picker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:23:17-75
 112        </provider>
 113
 114        <receiver

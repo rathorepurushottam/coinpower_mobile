@@ -1,9 +1,9 @@
 <libraries>
   <library
-      name="/Users/purushottamrathore/Documents/coinpower/android@@:react-native-pager-view::release"
-      jars="/Users/purushottamrathore/Documents/coinpower/node_modules/react-native-pager-view/android/build/.transforms/20619b2a8fcdd97a87ae79ced97081d8/transformed/out/jars/classes.jar:/Users/purushottamrathore/Documents/coinpower/node_modules/react-native-pager-view/android/build/.transforms/20619b2a8fcdd97a87ae79ced97081d8/transformed/out/jars/libs/R.jar"
+      name="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android@@:react-native-pager-view::release"
+      jars="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-pager-view/android/build/.transforms/56aa371a441020b9e6f85bdf54361e61/transformed/out/jars/classes.jar:/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-pager-view/android/build/.transforms/56aa371a441020b9e6f85bdf54361e61/transformed/out/jars/libs/R.jar"
       resolved="coinpower:react-native-pager-view:unspecified"
-      folder="/Users/purushottamrathore/Documents/coinpower/node_modules/react-native-pager-view/android/build/.transforms/20619b2a8fcdd97a87ae79ced97081d8/transformed/out"
+      folder="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-pager-view/android/build/.transforms/56aa371a441020b9e6f85bdf54361e61/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -26,10 +26,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/purushottamrathore/Documents/coinpower/android@@:react-native-screens::release"
-      jars="/Users/purushottamrathore/Documents/coinpower/node_modules/react-native-screens/android/build/.transforms/0967ac050ecc7c4e7712806f227054a4/transformed/out/jars/classes.jar:/Users/purushottamrathore/Documents/coinpower/node_modules/react-native-screens/android/build/.transforms/0967ac050ecc7c4e7712806f227054a4/transformed/out/jars/libs/R.jar"
+      name="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android@@:react-native-screens::release"
+      jars="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-screens/android/build/.transforms/6ea04359c3b88eb63073d66d06b94f97/transformed/out/jars/classes.jar:/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-screens/android/build/.transforms/6ea04359c3b88eb63073d66d06b94f97/transformed/out/jars/libs/R.jar"
       resolved="coinpower:react-native-screens:unspecified"
-      folder="/Users/purushottamrathore/Documents/coinpower/node_modules/react-native-screens/android/build/.transforms/0967ac050ecc7c4e7712806f227054a4/transformed/out"
+      folder="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-screens/android/build/.transforms/6ea04359c3b88eb63073d66d06b94f97/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -449,10 +449,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/purushottamrathore/Documents/coinpower/android@@:react-native-version-check::release"
-      jars="/Users/purushottamrathore/Documents/coinpower/node_modules/react-native-version-check/android/build/.transforms/558e6dd336195f5f57b4b0417d0a4027/transformed/out/jars/classes.jar:/Users/purushottamrathore/Documents/coinpower/node_modules/react-native-version-check/android/build/.transforms/558e6dd336195f5f57b4b0417d0a4027/transformed/out/jars/libs/R.jar"
+      name="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android@@:react-native-version-check::release"
+      jars="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-version-check/android/build/.transforms/0e3dc3f8de1ed27f8fe55f7e84016904/transformed/out/jars/classes.jar:/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-version-check/android/build/.transforms/0e3dc3f8de1ed27f8fe55f7e84016904/transformed/out/jars/libs/R.jar"
       resolved="coinpower:react-native-version-check:unspecified"
-      folder="/Users/purushottamrathore/Documents/coinpower/node_modules/react-native-version-check/android/build/.transforms/558e6dd336195f5f57b4b0417d0a4027/transformed/out"
+      folder="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-version-check/android/build/.transforms/0e3dc3f8de1ed27f8fe55f7e84016904/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -475,10 +475,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/purushottamrathore/Documents/coinpower/android@@:react-native-async-storage_async-storage::release"
-      jars="/Users/purushottamrathore/Documents/coinpower/node_modules/@react-native-async-storage/async-storage/android/build/.transforms/9cb9c0866828335d79c0f3486c1e9f53/transformed/out/jars/classes.jar:/Users/purushottamrathore/Documents/coinpower/node_modules/@react-native-async-storage/async-storage/android/build/.transforms/9cb9c0866828335d79c0f3486c1e9f53/transformed/out/jars/libs/R.jar"
+      name="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android@@:react-native-async-storage_async-storage::release"
+      jars="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/@react-native-async-storage/async-storage/android/build/.transforms/508396a2eafdb71ab4115c1df362584e/transformed/out/jars/classes.jar:/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/@react-native-async-storage/async-storage/android/build/.transforms/508396a2eafdb71ab4115c1df362584e/transformed/out/jars/libs/R.jar"
       resolved="coinpower:react-native-async-storage_async-storage:unspecified"
-      folder="/Users/purushottamrathore/Documents/coinpower/node_modules/@react-native-async-storage/async-storage/android/build/.transforms/9cb9c0866828335d79c0f3486c1e9f53/transformed/out"
+      folder="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/@react-native-async-storage/async-storage/android/build/.transforms/508396a2eafdb71ab4115c1df362584e/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -488,10 +488,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/purushottamrathore/Documents/coinpower/android@@:react-native-clipboard_clipboard::release"
-      jars="/Users/purushottamrathore/Documents/coinpower/node_modules/@react-native-clipboard/clipboard/android/build/.transforms/90b98a699f6fd36861f5a468fda782f6/transformed/out/jars/classes.jar:/Users/purushottamrathore/Documents/coinpower/node_modules/@react-native-clipboard/clipboard/android/build/.transforms/90b98a699f6fd36861f5a468fda782f6/transformed/out/jars/libs/R.jar"
+      name="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android@@:react-native-clipboard_clipboard::release"
+      jars="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/@react-native-clipboard/clipboard/android/build/.transforms/a68ce3f9e43cb8687bfd0003e01afb73/transformed/out/jars/classes.jar:/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/@react-native-clipboard/clipboard/android/build/.transforms/a68ce3f9e43cb8687bfd0003e01afb73/transformed/out/jars/libs/R.jar"
       resolved="coinpower:react-native-clipboard_clipboard:unspecified"
-      folder="/Users/purushottamrathore/Documents/coinpower/node_modules/@react-native-clipboard/clipboard/android/build/.transforms/90b98a699f6fd36861f5a468fda782f6/transformed/out"
+      folder="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/@react-native-clipboard/clipboard/android/build/.transforms/a68ce3f9e43cb8687bfd0003e01afb73/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -501,10 +501,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/purushottamrathore/Documents/coinpower/android@@:react-native-community_datetimepicker::release"
-      jars="/Users/purushottamrathore/Documents/coinpower/node_modules/@react-native-community/datetimepicker/android/build/.transforms/92d3e48ec5cb4b8edbfcab61f360d2c6/transformed/out/jars/classes.jar:/Users/purushottamrathore/Documents/coinpower/node_modules/@react-native-community/datetimepicker/android/build/.transforms/92d3e48ec5cb4b8edbfcab61f360d2c6/transformed/out/jars/libs/R.jar"
+      name="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android@@:react-native-community_datetimepicker::release"
+      jars="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/@react-native-community/datetimepicker/android/build/.transforms/a49b19804e6c880ac9e6381e5e5c0913/transformed/out/jars/classes.jar:/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/@react-native-community/datetimepicker/android/build/.transforms/a49b19804e6c880ac9e6381e5e5c0913/transformed/out/jars/libs/R.jar"
       resolved="coinpower:react-native-community_datetimepicker:unspecified"
-      folder="/Users/purushottamrathore/Documents/coinpower/node_modules/@react-native-community/datetimepicker/android/build/.transforms/92d3e48ec5cb4b8edbfcab61f360d2c6/transformed/out"
+      folder="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/@react-native-community/datetimepicker/android/build/.transforms/a49b19804e6c880ac9e6381e5e5c0913/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -514,10 +514,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/purushottamrathore/Documents/coinpower/android@@:react-native-picker_picker::release"
-      jars="/Users/purushottamrathore/Documents/coinpower/node_modules/@react-native-picker/picker/android/build/.transforms/0c6af63042491b7a1c0ae1da874b9b80/transformed/out/jars/classes.jar:/Users/purushottamrathore/Documents/coinpower/node_modules/@react-native-picker/picker/android/build/.transforms/0c6af63042491b7a1c0ae1da874b9b80/transformed/out/jars/libs/R.jar"
+      name="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android@@:react-native-picker_picker::release"
+      jars="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/@react-native-picker/picker/android/build/.transforms/3b624a2b34e34b46923b3313f5d6cf80/transformed/out/jars/classes.jar:/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/@react-native-picker/picker/android/build/.transforms/3b624a2b34e34b46923b3313f5d6cf80/transformed/out/jars/libs/R.jar"
       resolved="coinpower:react-native-picker_picker:unspecified"
-      folder="/Users/purushottamrathore/Documents/coinpower/node_modules/@react-native-picker/picker/android/build/.transforms/0c6af63042491b7a1c0ae1da874b9b80/transformed/out"
+      folder="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/@react-native-picker/picker/android/build/.transforms/3b624a2b34e34b46923b3313f5d6cf80/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -527,10 +527,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/purushottamrathore/Documents/coinpower/android@@:react-native-device-info::release"
-      jars="/Users/purushottamrathore/Documents/coinpower/node_modules/react-native-device-info/android/build/.transforms/8ec8becb1d52efb56761634355648deb/transformed/out/jars/classes.jar:/Users/purushottamrathore/Documents/coinpower/node_modules/react-native-device-info/android/build/.transforms/8ec8becb1d52efb56761634355648deb/transformed/out/jars/libs/R.jar"
+      name="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android@@:react-native-device-info::release"
+      jars="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-device-info/android/build/.transforms/833f5ece911a227b065a5fcedad3d2a2/transformed/out/jars/classes.jar:/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-device-info/android/build/.transforms/833f5ece911a227b065a5fcedad3d2a2/transformed/out/jars/libs/R.jar"
       resolved="coinpower:react-native-device-info:unspecified"
-      folder="/Users/purushottamrathore/Documents/coinpower/node_modules/react-native-device-info/android/build/.transforms/8ec8becb1d52efb56761634355648deb/transformed/out"
+      folder="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-device-info/android/build/.transforms/833f5ece911a227b065a5fcedad3d2a2/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -540,10 +540,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/purushottamrathore/Documents/coinpower/android@@:react-native-fast-image::release"
-      jars="/Users/purushottamrathore/Documents/coinpower/node_modules/react-native-fast-image/android/build/.transforms/8bbb8d34d84b33a348cdc1d736a50821/transformed/out/jars/classes.jar:/Users/purushottamrathore/Documents/coinpower/node_modules/react-native-fast-image/android/build/.transforms/8bbb8d34d84b33a348cdc1d736a50821/transformed/out/jars/libs/R.jar"
+      name="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android@@:react-native-fast-image::release"
+      jars="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-fast-image/android/build/.transforms/87e96701613506b123efdb43a0f23944/transformed/out/jars/classes.jar:/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-fast-image/android/build/.transforms/87e96701613506b123efdb43a0f23944/transformed/out/jars/libs/R.jar"
       resolved="coinpower:react-native-fast-image:unspecified"
-      folder="/Users/purushottamrathore/Documents/coinpower/node_modules/react-native-fast-image/android/build/.transforms/8bbb8d34d84b33a348cdc1d736a50821/transformed/out"
+      folder="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-fast-image/android/build/.transforms/87e96701613506b123efdb43a0f23944/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -553,10 +553,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/purushottamrathore/Documents/coinpower/android@@:react-native-gesture-handler::release"
-      jars="/Users/purushottamrathore/Documents/coinpower/node_modules/react-native-gesture-handler/android/build/.transforms/28027406a40ba6ba1b3c3473f7bc14bf/transformed/out/jars/classes.jar:/Users/purushottamrathore/Documents/coinpower/node_modules/react-native-gesture-handler/android/build/.transforms/28027406a40ba6ba1b3c3473f7bc14bf/transformed/out/jars/libs/R.jar"
+      name="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android@@:react-native-gesture-handler::release"
+      jars="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-gesture-handler/android/build/.transforms/fc43504598ee13f4c4f8557c0017f7f7/transformed/out/jars/classes.jar:/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-gesture-handler/android/build/.transforms/fc43504598ee13f4c4f8557c0017f7f7/transformed/out/jars/libs/R.jar"
       resolved="coinpower:react-native-gesture-handler:unspecified"
-      folder="/Users/purushottamrathore/Documents/coinpower/node_modules/react-native-gesture-handler/android/build/.transforms/28027406a40ba6ba1b3c3473f7bc14bf/transformed/out"
+      folder="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-gesture-handler/android/build/.transforms/fc43504598ee13f4c4f8557c0017f7f7/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -566,10 +566,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/purushottamrathore/Documents/coinpower/android@@:react-native-image-crop-picker::release"
-      jars="/Users/purushottamrathore/Documents/coinpower/node_modules/react-native-image-crop-picker/android/build/.transforms/fd063e729c87da20157453524ea36a81/transformed/out/jars/classes.jar:/Users/purushottamrathore/Documents/coinpower/node_modules/react-native-image-crop-picker/android/build/.transforms/fd063e729c87da20157453524ea36a81/transformed/out/jars/libs/R.jar"
+      name="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android@@:react-native-image-crop-picker::release"
+      jars="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-image-crop-picker/android/build/.transforms/24648c263ca23e5ad1bddf3eab9adbaf/transformed/out/jars/classes.jar:/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-image-crop-picker/android/build/.transforms/24648c263ca23e5ad1bddf3eab9adbaf/transformed/out/jars/libs/R.jar"
       resolved="coinpower:react-native-image-crop-picker:unspecified"
-      folder="/Users/purushottamrathore/Documents/coinpower/node_modules/react-native-image-crop-picker/android/build/.transforms/fd063e729c87da20157453524ea36a81/transformed/out"
+      folder="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-image-crop-picker/android/build/.transforms/24648c263ca23e5ad1bddf3eab9adbaf/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -579,10 +579,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/purushottamrathore/Documents/coinpower/android@@:react-native-linear-gradient::release"
-      jars="/Users/purushottamrathore/Documents/coinpower/node_modules/react-native-linear-gradient/android/build/.transforms/bb7c1dbfe4d58de20a5468dbb876512e/transformed/out/jars/classes.jar:/Users/purushottamrathore/Documents/coinpower/node_modules/react-native-linear-gradient/android/build/.transforms/bb7c1dbfe4d58de20a5468dbb876512e/transformed/out/jars/libs/R.jar"
+      name="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android@@:react-native-linear-gradient::release"
+      jars="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-linear-gradient/android/build/.transforms/aa97d9344de67748380b625fa4b694ad/transformed/out/jars/classes.jar:/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-linear-gradient/android/build/.transforms/aa97d9344de67748380b625fa4b694ad/transformed/out/jars/libs/R.jar"
       resolved="coinpower:react-native-linear-gradient:unspecified"
-      folder="/Users/purushottamrathore/Documents/coinpower/node_modules/react-native-linear-gradient/android/build/.transforms/bb7c1dbfe4d58de20a5468dbb876512e/transformed/out"
+      folder="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-linear-gradient/android/build/.transforms/aa97d9344de67748380b625fa4b694ad/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -592,10 +592,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/purushottamrathore/Documents/coinpower/android@@:react-native-permissions::release"
-      jars="/Users/purushottamrathore/Documents/coinpower/node_modules/react-native-permissions/android/build/.transforms/ac9732ab166692efa940874b7331ddbe/transformed/out/jars/classes.jar:/Users/purushottamrathore/Documents/coinpower/node_modules/react-native-permissions/android/build/.transforms/ac9732ab166692efa940874b7331ddbe/transformed/out/jars/libs/R.jar"
+      name="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android@@:react-native-permissions::release"
+      jars="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-permissions/android/build/.transforms/a054164014e003a1d8532c8b1f6f9a30/transformed/out/jars/classes.jar:/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-permissions/android/build/.transforms/a054164014e003a1d8532c8b1f6f9a30/transformed/out/jars/libs/R.jar"
       resolved="coinpower:react-native-permissions:unspecified"
-      folder="/Users/purushottamrathore/Documents/coinpower/node_modules/react-native-permissions/android/build/.transforms/ac9732ab166692efa940874b7331ddbe/transformed/out"
+      folder="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-permissions/android/build/.transforms/a054164014e003a1d8532c8b1f6f9a30/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -605,10 +605,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/purushottamrathore/Documents/coinpower/android@@:react-native-push-notification::release"
-      jars="/Users/purushottamrathore/Documents/coinpower/node_modules/react-native-push-notification/android/build/.transforms/d7f5f8d09fa8fc055d439b4cb67c1e7d/transformed/out/jars/classes.jar:/Users/purushottamrathore/Documents/coinpower/node_modules/react-native-push-notification/android/build/.transforms/d7f5f8d09fa8fc055d439b4cb67c1e7d/transformed/out/jars/libs/R.jar"
+      name="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android@@:react-native-push-notification::release"
+      jars="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-push-notification/android/build/.transforms/a8573af10703317bfe0a5c55c47a3af3/transformed/out/jars/classes.jar:/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-push-notification/android/build/.transforms/a8573af10703317bfe0a5c55c47a3af3/transformed/out/jars/libs/R.jar"
       resolved="coinpower:react-native-push-notification:unspecified"
-      folder="/Users/purushottamrathore/Documents/coinpower/node_modules/react-native-push-notification/android/build/.transforms/d7f5f8d09fa8fc055d439b4cb67c1e7d/transformed/out"
+      folder="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-push-notification/android/build/.transforms/a8573af10703317bfe0a5c55c47a3af3/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -618,10 +618,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/purushottamrathore/Documents/coinpower/android@@:react-native-reanimated::release"
-      jars="/Users/purushottamrathore/Documents/coinpower/node_modules/react-native-reanimated/android/build/.transforms/6174c05fc0c0390ae57effb83f27de22/transformed/out/jars/classes.jar:/Users/purushottamrathore/Documents/coinpower/node_modules/react-native-reanimated/android/build/.transforms/6174c05fc0c0390ae57effb83f27de22/transformed/out/jars/libs/R.jar"
+      name="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android@@:react-native-reanimated::release"
+      jars="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-reanimated/android/build/.transforms/50cdcba7a8bbe2f795439bc641ef2839/transformed/out/jars/classes.jar:/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-reanimated/android/build/.transforms/50cdcba7a8bbe2f795439bc641ef2839/transformed/out/jars/libs/R.jar"
       resolved="coinpower:react-native-reanimated:unspecified"
-      folder="/Users/purushottamrathore/Documents/coinpower/node_modules/react-native-reanimated/android/build/.transforms/6174c05fc0c0390ae57effb83f27de22/transformed/out"
+      folder="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-reanimated/android/build/.transforms/50cdcba7a8bbe2f795439bc641ef2839/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -631,10 +631,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/purushottamrathore/Documents/coinpower/android@@:react-native-safe-area-context::release"
-      jars="/Users/purushottamrathore/Documents/coinpower/node_modules/react-native-safe-area-context/android/build/.transforms/e4e9d1aee201b02a1951e347f5254744/transformed/out/jars/classes.jar:/Users/purushottamrathore/Documents/coinpower/node_modules/react-native-safe-area-context/android/build/.transforms/e4e9d1aee201b02a1951e347f5254744/transformed/out/jars/libs/R.jar"
+      name="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android@@:react-native-safe-area-context::release"
+      jars="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-safe-area-context/android/build/.transforms/ab3697cdee593f584c84ef915dd53fce/transformed/out/jars/classes.jar:/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-safe-area-context/android/build/.transforms/ab3697cdee593f584c84ef915dd53fce/transformed/out/jars/libs/R.jar"
       resolved="coinpower:react-native-safe-area-context:unspecified"
-      folder="/Users/purushottamrathore/Documents/coinpower/node_modules/react-native-safe-area-context/android/build/.transforms/e4e9d1aee201b02a1951e347f5254744/transformed/out"
+      folder="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-safe-area-context/android/build/.transforms/ab3697cdee593f584c84ef915dd53fce/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -644,10 +644,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/purushottamrathore/Documents/coinpower/android@@:react-native-splash-screen::release"
-      jars="/Users/purushottamrathore/Documents/coinpower/node_modules/react-native-splash-screen/android/build/.transforms/d9524ca78f0a01b7fbd099628e61f40c/transformed/out/jars/classes.jar:/Users/purushottamrathore/Documents/coinpower/node_modules/react-native-splash-screen/android/build/.transforms/d9524ca78f0a01b7fbd099628e61f40c/transformed/out/jars/libs/R.jar"
+      name="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android@@:react-native-splash-screen::release"
+      jars="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-splash-screen/android/build/.transforms/46f6d5dfd61fd4998ec23c32902ee527/transformed/out/jars/classes.jar:/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-splash-screen/android/build/.transforms/46f6d5dfd61fd4998ec23c32902ee527/transformed/out/jars/libs/R.jar"
       resolved="coinpower:react-native-splash-screen:unspecified"
-      folder="/Users/purushottamrathore/Documents/coinpower/node_modules/react-native-splash-screen/android/build/.transforms/d9524ca78f0a01b7fbd099628e61f40c/transformed/out"
+      folder="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-splash-screen/android/build/.transforms/46f6d5dfd61fd4998ec23c32902ee527/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -657,10 +657,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/purushottamrathore/Documents/coinpower/android@@:react-native-svg::release"
-      jars="/Users/purushottamrathore/Documents/coinpower/node_modules/react-native-svg/android/build/.transforms/3f08b2d796e020a228958c598d1ed9a2/transformed/out/jars/classes.jar:/Users/purushottamrathore/Documents/coinpower/node_modules/react-native-svg/android/build/.transforms/3f08b2d796e020a228958c598d1ed9a2/transformed/out/jars/libs/R.jar"
+      name="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android@@:react-native-svg::release"
+      jars="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-svg/android/build/.transforms/92efaabd5c09874edc2a5c6151224898/transformed/out/jars/classes.jar:/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-svg/android/build/.transforms/92efaabd5c09874edc2a5c6151224898/transformed/out/jars/libs/R.jar"
       resolved="coinpower:react-native-svg:unspecified"
-      folder="/Users/purushottamrathore/Documents/coinpower/node_modules/react-native-svg/android/build/.transforms/3f08b2d796e020a228958c598d1ed9a2/transformed/out"
+      folder="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-svg/android/build/.transforms/92efaabd5c09874edc2a5c6151224898/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -670,10 +670,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="/Users/purushottamrathore/Documents/coinpower/android@@:react-native-webview::release"
-      jars="/Users/purushottamrathore/Documents/coinpower/node_modules/react-native-webview/android/build/.transforms/966c5544fe02f63c1a69b6ae3818cf8c/transformed/out/jars/classes.jar:/Users/purushottamrathore/Documents/coinpower/node_modules/react-native-webview/android/build/.transforms/966c5544fe02f63c1a69b6ae3818cf8c/transformed/out/jars/libs/R.jar"
+      name="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android@@:react-native-webview::release"
+      jars="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-webview/android/build/.transforms/c8942e55940d77cf4cdcc79916ef8c63/transformed/out/jars/classes.jar:/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-webview/android/build/.transforms/c8942e55940d77cf4cdcc79916ef8c63/transformed/out/jars/libs/R.jar"
       resolved="coinpower:react-native-webview:unspecified"
-      folder="/Users/purushottamrathore/Documents/coinpower/node_modules/react-native-webview/android/build/.transforms/966c5544fe02f63c1a69b6ae3818cf8c/transformed/out"
+      folder="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-webview/android/build/.transforms/c8942e55940d77cf4cdcc79916ef8c63/transformed/out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"

@@ -59,6 +59,25 @@
                     }
                 },
                 {
+                    "source": "/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/@react-native-community/datetimepicker/android/build/intermediates/packaged_res/release/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,6,9,10,13",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "100,181,389,572,653,861",
+                        "endLines": "2,5,8,9,12,15",
+                        "endColumns": "80,12,12,80,12,12",
+                        "endOffsets": "176,384,567,648,856,1039"
+                    },
+                    "to": {
+                        "startLines": "6009,6010,6013,6016,6017,6020",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "425827,425908,426116,426299,426380,426588",
+                        "endLines": "6009,6012,6015,6016,6019,6022",
+                        "endColumns": "80,12,12,80,12,12",
+                        "endOffsets": "425903,426111,426294,426375,426583,426766"
+                    }
+                },
+                {
                     "source": "/Users/purushottamrathore/.gradle/caches/transforms-3/5b356190bdf4bb7065067fc153a69c6d/transformed/swiperefreshlayout-1.1.0/res/values/values.xml",
                     "from": {
                         "startLines": "2",
@@ -169,22 +188,22 @@
                     }
                 },
                 {
-                    "source": "/Users/purushottamrathore/Documents/coinpower/node_modules/@react-native-community/datetimepicker/android/build/intermediates/packaged_res/release/values/values.xml",
+                    "source": "/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/res/values/styles.xml",
                     "from": {
-                        "startLines": "2,3,6,9,10,13",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "100,181,389,572,653,861",
-                        "endLines": "2,5,8,9,12,15",
-                        "endColumns": "80,12,12,80,12,12",
-                        "endOffsets": "176,384,567,648,856,1039"
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "54",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "267"
                     },
                     "to": {
-                        "startLines": "6009,6010,6013,6016,6017,6020",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "425827,425908,426116,426299,426380,426588",
-                        "endLines": "6009,6012,6015,6016,6019,6022",
-                        "endColumns": "80,12,12,80,12,12",
-                        "endOffsets": "425903,426111,426294,426375,426583,426766"
+                        "startLines": "2191",
+                        "startColumns": "4",
+                        "startOffsets": "161364",
+                        "endLines": "2194",
+                        "endColumns": "12",
+                        "endOffsets": "161542"
                     }
                 },
                 {
@@ -336,42 +355,6 @@
                     }
                 },
                 {
-                    "source": "/Users/purushottamrathore/Documents/coinpower/android/app/build/generated/res/resValues/release/values/gradleResValues.xml",
-                    "from": {
-                        "startLines": "6,8",
-                        "startColumns": "4,4",
-                        "startOffsets": "154,258",
-                        "endColumns": "63,68",
-                        "endOffsets": "213,322"
-                    },
-                    "to": {
-                        "startLines": "1902,1903",
-                        "startColumns": "4,4",
-                        "startOffsets": "127114,127178",
-                        "endColumns": "63,68",
-                        "endOffsets": "127173,127242"
-                    }
-                },
-                {
-                    "source": "/Users/purushottamrathore/Documents/coinpower/node_modules/react-native-splash-screen/android/build/intermediates/packaged_res/release/values/values.xml",
-                    "from": {
-                        "startLines": "2,6,9,12",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,193,341,481",
-                        "endLines": "4,8,11,14",
-                        "endColumns": "11,12,12,12",
-                        "endOffsets": "138,336,476,663"
-                    },
-                    "to": {
-                        "startLines": "1907,6023,6026,6029",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "127442,426771,426919,427059",
-                        "endLines": "1909,6025,6028,6031",
-                        "endColumns": "11,12,12,12",
-                        "endOffsets": "127525,426914,427054,427241"
-                    }
-                },
-                {
                     "source": "/Users/purushottamrathore/.gradle/caches/transforms-3/57875db857c52963776a564122dcb84b/transformed/jetified-startup-runtime-1.1.1/res/values/values.xml",
                     "from": {
                         "startLines": "2",
@@ -480,6 +463,23 @@
                     }
                 },
                 {
+                    "source": "/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "46",
+                        "endOffsets": "58"
+                    },
+                    "to": {
+                        "startLines": "1943",
+                        "startColumns": "4",
+                        "startOffsets": "129916",
+                        "endColumns": "46",
+                        "endOffsets": "129958"
+                    }
+                },
+                {
                     "source": "/Users/purushottamrathore/.gradle/caches/transforms-3/f1ad4007c9d50652fdaa15828c92907b/transformed/coordinatorlayout-1.2.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,6,16",
@@ -518,39 +518,22 @@
                     }
                 },
                 {
-                    "source": "/Users/purushottamrathore/Documents/coinpower/android/app/src/main/res/values/strings.xml",
+                    "source": "/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-splash-screen/android/build/intermediates/packaged_res/release/values/values.xml",
                     "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "46",
-                        "endOffsets": "58"
+                        "startLines": "2,6,9,12",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,193,341,481",
+                        "endLines": "4,8,11,14",
+                        "endColumns": "11,12,12,12",
+                        "endOffsets": "138,336,476,663"
                     },
                     "to": {
-                        "startLines": "1943",
-                        "startColumns": "4",
-                        "startOffsets": "129916",
-                        "endColumns": "46",
-                        "endOffsets": "129958"
-                    }
-                },
-                {
-                    "source": "/Users/purushottamrathore/Documents/coinpower/android/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "54",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "267"
-                    },
-                    "to": {
-                        "startLines": "2191",
-                        "startColumns": "4",
-                        "startOffsets": "161364",
-                        "endLines": "2194",
-                        "endColumns": "12",
-                        "endOffsets": "161542"
+                        "startLines": "1907,6023,6026,6029",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "127442,426771,426919,427059",
+                        "endLines": "1909,6025,6028,6031",
+                        "endColumns": "11,12,12,12",
+                        "endOffsets": "127525,426914,427054,427241"
                     }
                 },
                 {
@@ -568,6 +551,23 @@
                         "startOffsets": "122439",
                         "endColumns": "42",
                         "endOffsets": "122477"
+                    }
+                },
+                {
+                    "source": "/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/build/generated/res/resValues/release/values/gradleResValues.xml",
+                    "from": {
+                        "startLines": "6,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "154,258",
+                        "endColumns": "63,68",
+                        "endOffsets": "213,322"
+                    },
+                    "to": {
+                        "startLines": "1902,1903",
+                        "startColumns": "4,4",
+                        "startOffsets": "127114,127178",
+                        "endColumns": "63,68",
+                        "endOffsets": "127173,127242"
                     }
                 }
             ]

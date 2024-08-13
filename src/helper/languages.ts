@@ -259,7 +259,7 @@ export const languages = {
 
   title_firstName: 'First Name*',
   title_lastName: 'Last Name*',
-  title_phone: 'Phone Number',
+  title_phone: 'Phone Number*',
   title_code: 'Phone Verification Code',
   title_password: 'Current Password',
   title_newPassword: 'New Password',

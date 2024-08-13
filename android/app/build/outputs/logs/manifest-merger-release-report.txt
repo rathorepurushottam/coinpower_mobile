@@ -1,28 +1,28 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:1:1-36:12
-INJECTED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:1:1-36:12
-INJECTED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:1:1-36:12
-INJECTED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:1:1-36:12
-MERGED from [:react-native-version-check] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-version-check/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
-MERGED from [:react-native-async-storage_async-storage] /Users/purushottamrathore/Documents/coinpower/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
-MERGED from [:react-native-clipboard_clipboard] /Users/purushottamrathore/Documents/coinpower/node_modules/@react-native-clipboard/clipboard/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
-MERGED from [:react-native-community_datetimepicker] /Users/purushottamrathore/Documents/coinpower/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-picker_picker] /Users/purushottamrathore/Documents/coinpower/node_modules/@react-native-picker/picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
-MERGED from [:react-native-device-info] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-device-info/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
-MERGED from [:react-native-fast-image] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-fast-image/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
-MERGED from [:react-native-gesture-handler] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
-MERGED from [:react-native-image-crop-picker] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-31:12
-MERGED from [:react-native-linear-gradient] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-linear-gradient/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
-MERGED from [:react-native-pager-view] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-pager-view/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
-MERGED from [:react-native-permissions] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-permissions/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
-MERGED from [:react-native-push-notification] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-push-notification/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
-MERGED from [:react-native-reanimated] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
-MERGED from [:react-native-safe-area-context] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
-MERGED from [:react-native-screens] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-screens/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
-MERGED from [:react-native-splash-screen] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
-MERGED from [:react-native-svg] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-svg/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
-MERGED from [:react-native-webview] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-webview/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-19:12
+ADDED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:1:1-36:12
+INJECTED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:1:1-36:12
+INJECTED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:1:1-36:12
+INJECTED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:1:1-36:12
+MERGED from [:react-native-version-check] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-version-check/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-async-storage_async-storage] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-clipboard_clipboard] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/@react-native-clipboard/clipboard/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-community_datetimepicker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-picker_picker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/@react-native-picker/picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-device-info] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-device-info/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-fast-image] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-fast-image/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-gesture-handler] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-image-crop-picker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-31:12
+MERGED from [:react-native-linear-gradient] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-linear-gradient/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-pager-view] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-pager-view/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-permissions] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-permissions/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-push-notification] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-push-notification/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-reanimated] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-safe-area-context] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-screens] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-screens/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-splash-screen] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-svg] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-svg/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-webview] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-webview/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-19:12
 MERGED from [com.facebook.react:react-android:0.73.6] /Users/purushottamrathore/.gradle/caches/transforms-3/b64db6df918ccbab726290dc2d0a74f3/transformed/jetified-react-android-0.73.6-release/AndroidManifest.xml:2:1-12:12
 MERGED from [com.facebook.fresco:fresco:3.1.3] /Users/purushottamrathore/.gradle/caches/transforms-3/73ba53becf6a818dacbfe76ccb7dfd5a/transformed/jetified-fresco-3.1.3/AndroidManifest.xml:2:1-7:12
 MERGED from [com.facebook.fresco:imagepipeline-okhttp3:3.1.3] /Users/purushottamrathore/.gradle/caches/transforms-3/78816c54b596e77b24ddd4d407d9d3f7/transformed/jetified-imagepipeline-okhttp3-3.1.3/AndroidManifest.xml:2:1-7:12
@@ -122,15 +122,15 @@ MERGED from [com.facebook.soloader:soloader:0.10.5] /Users/purushottamrathore/.g
 MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/purushottamrathore/.gradle/caches/transforms-3/7347c325151bfcdf75aa8769efa26987/transformed/jetified-installreferrer-1.1.2/AndroidManifest.xml:2:1-13:12
 MERGED from [me.leolin:ShortcutBadger:1.1.22] /Users/purushottamrathore/.gradle/caches/transforms-3/d12a6bdad71b6851c31ee718e01584f6/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:2:1-52:12
 	package
-		INJECTED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:3:5-67
+ADDED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:3:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:21.5.0] /Users/purushottamrathore/.gradle/caches/transforms-3/5d08d3f0c0f58b521b999148d26c0de3/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:22:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:21.5.0] /Users/purushottamrathore/.gradle/caches/transforms-3/5d08d3f0c0f58b521b999148d26c0de3/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:22:5-67
 MERGED from [com.google.firebase:firebase-installations:17.2.0] /Users/purushottamrathore/.gradle/caches/transforms-3/01f00aeb5c3f9efc0de4d93ff857b0ce/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:8:5-67
@@ -148,42 +148,42 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /U
 MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/purushottamrathore/.gradle/caches/transforms-3/6bc482e8b4a77d076310679e20c19b56/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:25:5-67
 MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/purushottamrathore/.gradle/caches/transforms-3/6bc482e8b4a77d076310679e20c19b56/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:25:5-67
 	android:name
-		ADDED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:3:22-64
+		ADDED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:3:22-64
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:4:1-76
+ADDED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:4:1-76
 	android:name
-		ADDED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:4:18-73
+		ADDED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:4:18-73
 uses-permission#android.permission.CAMERA
-ADDED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:5:2-62
+ADDED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:5:2-62
 	android:name
-		ADDED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:5:19-59
+		ADDED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:5:19-59
 uses-permission#android.permission.READ_MEDIA_IMAGES
-ADDED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:6:3-73
+ADDED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:6:3-73
 	android:name
-		ADDED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:6:20-71
+		ADDED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:6:20-71
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:7:3-79
-MERGED from [:react-native-image-crop-picker] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:13:5-81
-MERGED from [:react-native-image-crop-picker] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:13:5-81
+ADDED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:7:3-79
+MERGED from [:react-native-image-crop-picker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:13:5-81
+MERGED from [:react-native-image-crop-picker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:13:5-81
 	android:name
-		ADDED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:7:20-76
+		ADDED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:7:20-76
 uses-feature#android.hardware.camera
-ADDED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:9:2-57
+ADDED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:9:2-57
 	android:name
-		ADDED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:9:16-54
+		ADDED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:9:16-54
 uses-feature#android.hardware.camera.autofocus
-ADDED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:10:2-67
+ADDED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:10:2-67
 	android:name
-		ADDED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:10:16-64
+		ADDED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:10:16-64
 application
-ADDED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:12:5-35:19
-INJECTED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:12:5-35:19
-MERGED from [:react-native-community_datetimepicker] /Users/purushottamrathore/Documents/coinpower/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-20
-MERGED from [:react-native-community_datetimepicker] /Users/purushottamrathore/Documents/coinpower/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-20
-MERGED from [:react-native-image-crop-picker] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:15:5-29:19
-MERGED from [:react-native-image-crop-picker] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:15:5-29:19
-MERGED from [:react-native-webview] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-webview/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-17:19
-MERGED from [:react-native-webview] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-webview/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-17:19
+ADDED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:12:5-35:19
+INJECTED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:12:5-35:19
+MERGED from [:react-native-community_datetimepicker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-20
+MERGED from [:react-native-community_datetimepicker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-20
+MERGED from [:react-native-image-crop-picker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:15:5-29:19
+MERGED from [:react-native-image-crop-picker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:15:5-29:19
+MERGED from [:react-native-webview] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-webview/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-17:19
+MERGED from [:react-native-webview] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-webview/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-17:19
 MERGED from [com.google.firebase:firebase-messaging:23.3.1] /Users/purushottamrathore/.gradle/caches/transforms-3/fd3dcd9f1074ba95ddf7669b272995ca/transformed/jetified-firebase-messaging-23.3.1/AndroidManifest.xml:28:5-64:19
 MERGED from [com.google.firebase:firebase-messaging:23.3.1] /Users/purushottamrathore/.gradle/caches/transforms-3/fd3dcd9f1074ba95ddf7669b272995ca/transformed/jetified-firebase-messaging-23.3.1/AndroidManifest.xml:28:5-64:19
 MERGED from [com.google.firebase:firebase-analytics:21.5.0] /Users/purushottamrathore/.gradle/caches/transforms-3/521fc8305606815b851e68d6c3e9ca52/transformed/jetified-firebase-analytics-21.5.0/AndroidManifest.xml:7:5-20
@@ -253,95 +253,95 @@ MERGED from [com.facebook.soloader:soloader:0.10.5] /Users/purushottamrathore/.g
 MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/purushottamrathore/.gradle/caches/transforms-3/7347c325151bfcdf75aa8769efa26987/transformed/jetified-installreferrer-1.1.2/AndroidManifest.xml:11:5-20
 MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/purushottamrathore/.gradle/caches/transforms-3/7347c325151bfcdf75aa8769efa26987/transformed/jetified-installreferrer-1.1.2/AndroidManifest.xml:11:5-20
 	android:extractNativeLibs
-		INJECTED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml
 	android:requestLegacyExternalStorage
-		ADDED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:20:7-50
+		ADDED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:20:7-50
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.9.0] /Users/purushottamrathore/.gradle/caches/transforms-3/13659b94c66de92d98d7f8af61234b95/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
 	android:label
-		ADDED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:14:7-39
+		ADDED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:14:7-39
 	android:roundIcon
-		ADDED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:16:7-52
+		ADDED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:16:7-52
 	android:largeHeap
-		ADDED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:21:7-31
+		ADDED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:21:7-31
 	android:icon
-		ADDED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:15:7-47
+		ADDED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:15:7-47
 	android:allowBackup
-		ADDED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:17:7-34
+		ADDED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:17:7-34
 	android:theme
-		ADDED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:18:7-38
+		ADDED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:18:7-38
 	android:usesCleartextTraffic
-		ADDED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:19:7-42
+		ADDED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:19:7-42
 	android:name
-		ADDED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:13:7-38
+		ADDED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:13:7-38
 activity#com.cryptobux.coinpower.MainActivity
-ADDED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:22:7-34:18
+ADDED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:22:7-34:18
 	android:screenOrientation
-		ADDED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:27:10-46
+		ADDED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:27:10-46
 	android:label
-		ADDED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:24:9-41
+		ADDED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:24:9-41
 	android:launchMode
-		ADDED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:26:9-40
+		ADDED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:26:9-40
 	android:windowSoftInputMode
-		ADDED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:28:9-51
+		ADDED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:28:9-51
 	android:exported
-		ADDED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:29:9-32
+		ADDED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:29:9-32
 	android:configChanges
-		ADDED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:25:9-118
+		ADDED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:25:9-118
 	android:name
-		ADDED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:23:9-37
+		ADDED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:23:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:30:9-33:25
+ADDED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:30:9-33:25
 action#android.intent.action.MAIN
-ADDED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:31:13-65
+ADDED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:31:13-65
 	android:name
-		ADDED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:31:21-62
+		ADDED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:31:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:32:13-73
+ADDED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:32:13-73
 	android:name
-		ADDED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml:32:23-70
+		ADDED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml:32:23-70
 uses-sdk
-INJECTED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml
-MERGED from [:react-native-version-check] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-version-check/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-version-check] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-version-check/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-async-storage_async-storage] /Users/purushottamrathore/Documents/coinpower/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-async-storage_async-storage] /Users/purushottamrathore/Documents/coinpower/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-clipboard_clipboard] /Users/purushottamrathore/Documents/coinpower/node_modules/@react-native-clipboard/clipboard/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-clipboard_clipboard] /Users/purushottamrathore/Documents/coinpower/node_modules/@react-native-clipboard/clipboard/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-community_datetimepicker] /Users/purushottamrathore/Documents/coinpower/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-community_datetimepicker] /Users/purushottamrathore/Documents/coinpower/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-picker_picker] /Users/purushottamrathore/Documents/coinpower/node_modules/@react-native-picker/picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-picker_picker] /Users/purushottamrathore/Documents/coinpower/node_modules/@react-native-picker/picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-device-info] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-device-info/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-device-info] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-device-info/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-fast-image] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-fast-image/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-fast-image] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-fast-image/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-gesture-handler] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-gesture-handler] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-image-crop-picker] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-image-crop-picker] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-linear-gradient] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-linear-gradient/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-linear-gradient] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-linear-gradient/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-pager-view] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-pager-view/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-pager-view] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-pager-view/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-permissions] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-permissions/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-permissions] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-permissions/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-push-notification] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-push-notification/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-push-notification] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-push-notification/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-reanimated] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-reanimated] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-safe-area-context] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-safe-area-context] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-screens] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-screens/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-screens] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-screens/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-splash-screen] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-splash-screen] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-svg] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-svg/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-svg] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-svg/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-webview] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-webview/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
-MERGED from [:react-native-webview] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-webview/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+INJECTED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-version-check] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-version-check/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-version-check] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-version-check/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-async-storage_async-storage] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-async-storage_async-storage] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-clipboard_clipboard] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/@react-native-clipboard/clipboard/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-clipboard_clipboard] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/@react-native-clipboard/clipboard/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-community_datetimepicker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-community_datetimepicker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-picker_picker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/@react-native-picker/picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-picker_picker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/@react-native-picker/picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-device-info] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-device-info/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-device-info] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-device-info/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-fast-image] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-fast-image/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-fast-image] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-fast-image/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-gesture-handler] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-gesture-handler] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-image-crop-picker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-image-crop-picker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-linear-gradient] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-linear-gradient/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-linear-gradient] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-linear-gradient/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-pager-view] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-pager-view/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-pager-view] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-pager-view/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-permissions] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-permissions/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-permissions] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-permissions/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-push-notification] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-push-notification/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-push-notification] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-push-notification/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-reanimated] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-reanimated] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-reanimated/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-safe-area-context] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-safe-area-context] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-screens] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-screens/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-screens] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-screens/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-splash-screen] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-splash-screen] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-svg] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-svg/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-svg] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-svg/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-webview] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-webview/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-webview] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-webview/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
 MERGED from [com.facebook.react:react-android:0.73.6] /Users/purushottamrathore/.gradle/caches/transforms-3/b64db6df918ccbab726290dc2d0a74f3/transformed/jetified-react-android-0.73.6-release/AndroidManifest.xml:10:5-44
 MERGED from [com.facebook.react:react-android:0.73.6] /Users/purushottamrathore/.gradle/caches/transforms-3/b64db6df918ccbab726290dc2d0a74f3/transformed/jetified-react-android-0.73.6-release/AndroidManifest.xml:10:5-44
 MERGED from [com.facebook.fresco:fresco:3.1.3] /Users/purushottamrathore/.gradle/caches/transforms-3/73ba53becf6a818dacbfe76ccb7dfd5a/transformed/jetified-fresco-3.1.3/AndroidManifest.xml:5:5-44
@@ -539,49 +539,49 @@ MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/purushott
 MERGED from [me.leolin:ShortcutBadger:1.1.22] /Users/purushottamrathore/.gradle/caches/transforms-3/d12a6bdad71b6851c31ee718e01584f6/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:7:5-9:41
 MERGED from [me.leolin:ShortcutBadger:1.1.22] /Users/purushottamrathore/.gradle/caches/transforms-3/d12a6bdad71b6851c31ee718e01584f6/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:7:5-9:41
 	android:targetSdkVersion
-		INJECTED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/purushottamrathore/Documents/coinpower/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app/src/main/AndroidManifest.xml
 queries
-ADDED from [:react-native-image-crop-picker] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-11:15
+ADDED from [:react-native-image-crop-picker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-11:15
 intent#action:name:android.media.action.IMAGE_CAPTURE
-ADDED from [:react-native-image-crop-picker] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:8:9-10:18
+ADDED from [:react-native-image-crop-picker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:8:9-10:18
 action#android.media.action.IMAGE_CAPTURE
-ADDED from [:react-native-image-crop-picker] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:9:13-73
+ADDED from [:react-native-image-crop-picker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:9:13-73
 	android:name
-		ADDED from [:react-native-image-crop-picker] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:9:21-70
+		ADDED from [:react-native-image-crop-picker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:9:21-70
 provider#com.reactnative.ivpusic.imagepicker.IvpusicImagePickerFileProvider
-ADDED from [:react-native-image-crop-picker] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:16:9-24:20
+ADDED from [:react-native-image-crop-picker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:16:9-24:20
 	android:grantUriPermissions
-		ADDED from [:react-native-image-crop-picker] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:20:13-47
+		ADDED from [:react-native-image-crop-picker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:20:13-47
 	android:authorities
-		ADDED from [:react-native-image-crop-picker] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:18:13-60
+		ADDED from [:react-native-image-crop-picker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:18:13-60
 	android:exported
-		ADDED from [:react-native-image-crop-picker] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:19:13-37
+		ADDED from [:react-native-image-crop-picker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:19:13-37
 	android:name
-		ADDED from [:react-native-image-crop-picker] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:17:13-94
+		ADDED from [:react-native-image-crop-picker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:17:13-94
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from [:react-native-image-crop-picker] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:21:13-23:78
+ADDED from [:react-native-image-crop-picker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:21:13-23:78
 	android:resource
-		ADDED from [:react-native-image-crop-picker] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:23:17-75
+		ADDED from [:react-native-image-crop-picker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:23:17-75
 	android:name
-		ADDED from [:react-native-image-crop-picker] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:22:17-67
+		ADDED from [:react-native-image-crop-picker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:22:17-67
 activity#com.yalantis.ucrop.UCropActivity
-ADDED from [:react-native-image-crop-picker] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:26:9-28:72
+ADDED from [:react-native-image-crop-picker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:26:9-28:72
 	android:theme
-		ADDED from [:react-native-image-crop-picker] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:28:13-69
+		ADDED from [:react-native-image-crop-picker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:28:13-69
 	android:name
-		ADDED from [:react-native-image-crop-picker] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:27:13-60
+		ADDED from [:react-native-image-crop-picker] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:27:13-60
 provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
-ADDED from [:react-native-webview] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-webview/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:8:9-16:20
+ADDED from [:react-native-webview] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-webview/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:8:9-16:20
 	android:grantUriPermissions
-		ADDED from [:react-native-webview] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-webview/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:12:13-47
+		ADDED from [:react-native-webview] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-webview/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:12:13-47
 	android:authorities
-		ADDED from [:react-native-webview] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-webview/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:10:13-64
+		ADDED from [:react-native-webview] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-webview/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:10:13-64
 	android:exported
-		ADDED from [:react-native-webview] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-webview/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-37
+		ADDED from [:react-native-webview] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-webview/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-37
 	android:name
-		ADDED from [:react-native-webview] /Users/purushottamrathore/Documents/coinpower/node_modules/react-native-webview/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:9:13-83
+		ADDED from [:react-native-webview] /Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/node_modules/react-native-webview/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:9:13-83
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.firebase:firebase-messaging:23.3.1] /Users/purushottamrathore/.gradle/caches/transforms-3/fd3dcd9f1074ba95ddf7669b272995ca/transformed/jetified-firebase-messaging-23.3.1/AndroidManifest.xml:22:5-79
 MERGED from [com.google.android.gms:play-services-measurement-api:21.5.0] /Users/purushottamrathore/.gradle/caches/transforms-3/5d08d3f0c0f58b521b999148d26c0de3/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:23:5-79

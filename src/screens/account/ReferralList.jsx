@@ -83,7 +83,7 @@ const ReferralList = () => {
       <Toolbar isLogo={false} title='Referral List' isSecond  />
       <ScrollView style={{flex:1}}>
         {referralList?.length > 0 ? (
-          <ScrollView horizontal>
+          <View>
             <View style={styles.tableContainer}>
               <View style={[styles.tableHeader, styles.row]}>
                 <AppText type={FIFTEEN} style={styles.headerCell}>
@@ -107,7 +107,7 @@ const ReferralList = () => {
                 );
               })}
             </View>
-          </ScrollView>
+          </View>
         ) : (
           <View
             style={{flex: 1, alignItems: 'center', justifyContent: 'center'}}>
@@ -156,18 +156,20 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     // justifyContent: "space-between"
+    // backgroundColor: "red"
+    
   },
 
   headerCell: {
-    width: 180,
+    width: 140,
     textAlign: 'center',
-    padding: 10,
+    padding: 8,
     color: colors.textGray,
   },
   cell: {
     textAlign: 'center',
-    width: 180,
-    padding: 10,
+    width: 160,
+    // padding: 8,
     color: colors.white,
   },
 });

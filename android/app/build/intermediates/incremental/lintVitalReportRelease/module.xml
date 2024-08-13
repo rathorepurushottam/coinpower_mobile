@@ -1,6 +1,6 @@
 <lint-module
     format="1"
-    dir="/Users/purushottamrathore/Documents/coinpower/android/app"
+    dir="/Users/purushottamrathore/AppinopWorkspace/Crypto/coinpower_mobile/android/app"
     name=":app"
     type="APP"
     maven="coinpower:app:"

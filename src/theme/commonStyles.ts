@@ -8,7 +8,7 @@ export const commonStyles = StyleSheet.create({
     flex: 1,
   },
   screenSize: {
-    height: Screen.Height - 22,
+    height: Screen.Height - 24,
     width: Screen.Width,
     flex:1,
   },

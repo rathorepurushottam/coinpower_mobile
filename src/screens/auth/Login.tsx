@@ -165,7 +165,7 @@ const Login = (): JSX.Element => {
               marginTop:
                 Platform.OS === 'ios'
                   ? Screen.Height / 2.8
-                  : Screen.Height / 2.2,
+                  : Screen.Height / 2.3,
               // marginTop: getfoucs ? Screen.Height / 3.5 :getfoucsPass ? Screen.Height / 4: Screen.Height / 2.5,
             },
           ]}>
