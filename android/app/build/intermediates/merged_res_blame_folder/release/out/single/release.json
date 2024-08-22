@@ -4,12 +4,12 @@
         "source": "com.cryptobux.coinpower.app-res-38:/drawable-mdpi/assets_images_graph_candle_ic.png"
     },
     {
-        "merged": "com.cryptobux.coinpower.app-merged_res-43:/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "com.cryptobux.coinpower.app-main-44:/mipmap-xhdpi/ic_launcher_round.png"
-    },
-    {
         "merged": "com.cryptobux.coinpower.app-merged_res-43:/drawable-mdpi_assets_images_conversion_history.png.flat",
         "source": "com.cryptobux.coinpower.app-res-38:/drawable-mdpi/assets_images_conversion_history.png"
+    },
+    {
+        "merged": "com.cryptobux.coinpower.app-merged_res-43:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.cryptobux.coinpower.app-main-44:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
         "merged": "com.cryptobux.coinpower.app-merged_res-43:/drawable-mdpi_assets_images_check_selected.png.flat",
@@ -18,6 +18,10 @@
     {
         "merged": "com.cryptobux.coinpower.app-merged_res-43:/drawable-mdpi_assets_images_welcome_bg.png.flat",
         "source": "com.cryptobux.coinpower.app-res-38:/drawable-mdpi/assets_images_welcome_bg.png"
+    },
+    {
+        "merged": "com.cryptobux.coinpower.app-merged_res-43:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.cryptobux.coinpower.app-main-44:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
     },
     {
         "merged": "com.cryptobux.coinpower.app-merged_res-43:/drawable-mdpi_assets_images_home_ic.png.flat",
@@ -60,16 +64,16 @@
         "source": "com.cryptobux.coinpower.app-res-38:/drawable-mdpi/assets_images_p2picon.png"
     },
     {
+        "merged": "com.cryptobux.coinpower.app-merged_res-43:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.cryptobux.coinpower.app-main-44:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
         "merged": "com.cryptobux.coinpower.app-merged_res-43:/drawable-mdpi_assets_images_locked.png.flat",
         "source": "com.cryptobux.coinpower.app-res-38:/drawable-mdpi/assets_images_locked.png"
     },
     {
         "merged": "com.cryptobux.coinpower.app-merged_res-43:/drawable-mdpi_assets_images_up_ic.png.flat",
         "source": "com.cryptobux.coinpower.app-res-38:/drawable-mdpi/assets_images_up_ic.png"
-    },
-    {
-        "merged": "com.cryptobux.coinpower.app-merged_res-43:/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "com.cryptobux.coinpower.app-main-44:/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
         "merged": "com.cryptobux.coinpower.app-merged_res-43:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
@@ -92,8 +96,16 @@
         "source": "com.cryptobux.coinpower.app-res-38:/drawable-mdpi/assets_images_profile_placeholder.png"
     },
     {
+        "merged": "com.cryptobux.coinpower.app-merged_res-43:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.cryptobux.coinpower.app-main-44:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
         "merged": "com.cryptobux.coinpower.app-merged_res-43:/drawable-mdpi_assets_images_newlogo.png.flat",
         "source": "com.cryptobux.coinpower.app-res-38:/drawable-mdpi/assets_images_newlogo.png"
+    },
+    {
+        "merged": "com.cryptobux.coinpower.app-merged_res-43:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.cryptobux.coinpower.app-main-44:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
         "merged": "com.cryptobux.coinpower.app-merged_res-43:/drawable-mdpi_assets_images_contact_us_bg.png.flat",
@@ -106,6 +118,14 @@
     {
         "merged": "com.cryptobux.coinpower.app-merged_res-43:/drawable-mdpi_assets_images_wallet.png.flat",
         "source": "com.cryptobux.coinpower.app-res-38:/drawable-mdpi/assets_images_wallet.png"
+    },
+    {
+        "merged": "com.cryptobux.coinpower.app-merged_res-43:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.cryptobux.coinpower.app-main-44:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.cryptobux.coinpower.app-merged_res-43:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.cryptobux.coinpower.app-main-44:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
         "merged": "com.cryptobux.coinpower.app-merged_res-43:/drawable-mdpi_assets_images_up_graph_ic.png.flat",
@@ -126,6 +146,10 @@
     {
         "merged": "com.cryptobux.coinpower.app-merged_res-43:/drawable-mdpi_assets_images_refferal_ic.png.flat",
         "source": "com.cryptobux.coinpower.app-res-38:/drawable-mdpi/assets_images_refferal_ic.png"
+    },
+    {
+        "merged": "com.cryptobux.coinpower.app-merged_res-43:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.cryptobux.coinpower.app-main-44:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
         "merged": "com.cryptobux.coinpower.app-merged_res-43:/drawable-mdpi_assets_images_invite_earn_ic.png.flat",
@@ -172,6 +196,10 @@
         "source": "com.cryptobux.coinpower.app-res-38:/drawable-mdpi/assets_images_up_down_ic.png"
     },
     {
+        "merged": "com.cryptobux.coinpower.app-merged_res-43:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.cryptobux.coinpower.app-main-44:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
         "merged": "com.cryptobux.coinpower.app-merged_res-43:/drawable-mdpi_assets_images_convert_ic.png.flat",
         "source": "com.cryptobux.coinpower.app-res-38:/drawable-mdpi/assets_images_convert_ic.png"
     },
@@ -194,6 +222,10 @@
     {
         "merged": "com.cryptobux.coinpower.app-merged_res-43:/drawable-mdpi_assets_images_homebg.png.flat",
         "source": "com.cryptobux.coinpower.app-res-38:/drawable-mdpi/assets_images_homebg.png"
+    },
+    {
+        "merged": "com.cryptobux.coinpower.app-merged_res-43:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.cryptobux.coinpower.app-main-44:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
         "merged": "com.cryptobux.coinpower.app-merged_res-43:/drawable-mdpi_assets_images_frame1.png.flat",
@@ -276,12 +308,16 @@
         "source": "com.cryptobux.coinpower.app-res-38:/drawable-mdpi/assets_images_searchimg.png"
     },
     {
-        "merged": "com.cryptobux.coinpower.app-merged_res-43:/drawable-mdpi_assets_images_down_graph_ic.png.flat",
-        "source": "com.cryptobux.coinpower.app-res-38:/drawable-mdpi/assets_images_down_graph_ic.png"
+        "merged": "com.cryptobux.coinpower.app-merged_res-43:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.cryptobux.coinpower.app-main-44:/mipmap-mdpi/ic_launcher_foreground.webp"
     },
     {
         "merged": "com.cryptobux.coinpower.app-merged_res-43:/drawable-mdpi_assets_images_copy_ic.png.flat",
         "source": "com.cryptobux.coinpower.app-res-38:/drawable-mdpi/assets_images_copy_ic.png"
+    },
+    {
+        "merged": "com.cryptobux.coinpower.app-merged_res-43:/drawable-mdpi_assets_images_down_graph_ic.png.flat",
+        "source": "com.cryptobux.coinpower.app-res-38:/drawable-mdpi/assets_images_down_graph_ic.png"
     },
     {
         "merged": "com.cryptobux.coinpower.app-merged_res-43:/drawable-mdpi_assets_images_download_report_ic.png.flat",
@@ -412,6 +448,10 @@
         "source": "com.cryptobux.coinpower.app-res-38:/drawable-mdpi/assets_images_deposit_ic.png"
     },
     {
+        "merged": "com.cryptobux.coinpower.app-merged_res-43:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.cryptobux.coinpower.app-main-44:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
         "merged": "com.cryptobux.coinpower.app-merged_res-43:/drawable-mdpi_assets_images_trade_ic.png.flat",
         "source": "com.cryptobux.coinpower.app-res-38:/drawable-mdpi/assets_images_trade_ic.png"
     },
@@ -448,12 +488,12 @@
         "source": "com.cryptobux.coinpower.app-res-38:/drawable-mdpi/assets_images_downimgs.png"
     },
     {
-        "merged": "com.cryptobux.coinpower.app-merged_res-43:/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "com.cryptobux.coinpower.app-main-44:/mipmap-mdpi/ic_launcher_round.png"
-    },
-    {
         "merged": "com.cryptobux.coinpower.app-merged_res-43:/drawable-mdpi_assets_images_upload_ic.png.flat",
         "source": "com.cryptobux.coinpower.app-res-38:/drawable-mdpi/assets_images_upload_ic.png"
+    },
+    {
+        "merged": "com.cryptobux.coinpower.app-merged_res-43:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.cryptobux.coinpower.app-main-44:/mipmap-hdpi/ic_launcher_foreground.webp"
     },
     {
         "merged": "com.cryptobux.coinpower.app-merged_res-43:/drawable-mdpi_assets_images_check.png.flat",
@@ -532,6 +572,10 @@
         "source": "com.cryptobux.coinpower.app-res-38:/drawable-xxhdpi/assets_images_buy_crypto.png"
     },
     {
+        "merged": "com.cryptobux.coinpower.app-merged_res-43:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.cryptobux.coinpower.app-main-44:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
         "merged": "com.cryptobux.coinpower.app-merged_res-43:/drawable-mdpi_assets_images_trade_setting_ic.png.flat",
         "source": "com.cryptobux.coinpower.app-res-38:/drawable-mdpi/assets_images_trade_setting_ic.png"
     },
@@ -540,16 +584,20 @@
         "source": "com.cryptobux.coinpower.app-res-38:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
     },
     {
-        "merged": "com.cryptobux.coinpower.app-merged_res-43:/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "com.cryptobux.coinpower.app-main-44:/mipmap-hdpi/ic_launcher_round.png"
-    },
-    {
         "merged": "com.cryptobux.coinpower.app-merged_res-43:/drawable-mdpi_assets_images_ads.png.flat",
         "source": "com.cryptobux.coinpower.app-res-38:/drawable-mdpi/assets_images_ads.png"
     },
     {
         "merged": "com.cryptobux.coinpower.app-merged_res-43:/drawable-mdpi_assets_images_p2pbg.png.flat",
         "source": "com.cryptobux.coinpower.app-res-38:/drawable-mdpi/assets_images_p2pbg.png"
+    },
+    {
+        "merged": "com.cryptobux.coinpower.app-merged_res-43:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.cryptobux.coinpower.app-main-44:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.cryptobux.coinpower.app-merged_res-43:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.cryptobux.coinpower.app-main-44:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
         "merged": "com.cryptobux.coinpower.app-merged_res-43:/drawable-mdpi_assets_images_customuserimg.png.flat",
@@ -594,6 +642,10 @@
     {
         "merged": "com.cryptobux.coinpower.app-merged_res-43:/drawable-mdpi_assets_images_starfill.png.flat",
         "source": "com.cryptobux.coinpower.app-res-38:/drawable-mdpi/assets_images_starfill.png"
+    },
+    {
+        "merged": "com.cryptobux.coinpower.app-merged_res-43:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.cryptobux.coinpower.app-main-44:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
         "merged": "com.cryptobux.coinpower.app-merged_res-43:/drawable-mdpi_assets_images_convertto.png.flat",

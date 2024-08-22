@@ -1,7 +1,9 @@
 import React, {useState, useEffect} from 'react';
 import {
+  AMBER,
   AppSafeAreaView,
   AppText,
+  BOLD,
   Button,
   CustomMaterialMenu,
   FIFTEEN,
@@ -13,6 +15,7 @@ import {
   TEN,
   THIRTY,
   THIRTY_FOUR,
+  TWELVE,
   TWENTY,
   TWENTY_SIX,
   YELLOW,
@@ -176,7 +179,7 @@ const Funds = () => {
                   NavigationService.navigate(WALLET_DETAIL_SCREEN, {item:item});
                 }}
                 style={styles.fundSingleBoxSecond}>
-                <AppText numberOfLines={1} color={SECOND}>
+                <AppText numberOfLines={1} color={AMBER} weight={SEMI_BOLD} type={TWELVE}>
                   {item?.currency}
                 </AppText>
                 <AppText weight={SEMI_BOLD}>

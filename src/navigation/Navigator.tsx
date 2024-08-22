@@ -104,6 +104,7 @@ import { ProjectCommit } from '../screens/trades/ProjectCommit';
 import CommitDetails from '../screens/trades/CommitDetails';
 import ActivityLogs from '../screens/account/ActivityLogs';
 import ReferralList from '../screens/account/ReferralList';
+import LandingScreen from '../screens/auth/LandingScreen';
 
 const Stack = createStackNavigator();
 const Tab = createBottomTabNavigator();
@@ -263,7 +264,8 @@ const MyAuthLoadingStack = () => {
 };
 const AuthStack = () => (
   <Stack.Navigator screenOptions={options}>
-    <Stack.Screen name={routes.WELCOME_SCREEN} component={Login} />
+    {/* <Stack.Screen name={routes.WELCOME_SCREEN} component={Login} /> */}
+    <Stack.Screen name={routes.LANDING_SCREEN} component={LandingScreen}/>
     <Stack.Screen name={routes.LOGIN_SCREEN} component={Login} />
     <Stack.Screen
       name={routes.FORGOT_PASSWORD_SCREEN}

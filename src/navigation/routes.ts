@@ -10,6 +10,7 @@ export const NAVIGATION_BOTTOM_TAB_STACK: string =
 export const NAVIGATION_AUTH_LOADING_SCREEN: string =
   'NAVIGATION_AUTH_LOADING_SCREEN';
 export const WELCOME_SCREEN: string = 'WELCOME_SCREEN';
+export const LANDING_SCREEN: string = 'LANDING_SCREEN';
 export const LOGIN_SCREEN: string = 'LOGIN_SCREEN';
 export const REGISTER_SCREEN: string = 'REGISTER_SCREEN';
 export const FORGOT_PASSWORD_SCREEN: string = 'FORGOT_PASSWORD_SCREEN';
