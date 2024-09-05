@@ -43,7 +43,7 @@ const InviteAndEarn = () => {
     dispatch(getUserReferCode());
     // dispatch());
   }, [])
-  const message = `https://coinpowerexchange.com/signup?reffcode=${referCode}`;
+  const message = `https://coinpower.in/signup?reffcode=${referCode}`;
   const onSubmit = () => {
     shareToAny(message);
   };
